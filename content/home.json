@@ -1,0 +1,129 @@
+{
+  "site": {
+    "siteId": "00000000-0000-0000-0000-000000000000",
+    "companyName": "Exempel Elservice AB",
+    "displayName": "Exempel Elservice",
+    "language": "sv",
+    "primaryColor": "#1254c5",
+    "secondaryColor": "#172033"
+  },
+  "seo": {
+    "title": "Exempel Elservice i Stockholm | Elektriker for hem och foretag",
+    "description": "Exempel Elservice hjalper privatpersoner och foretag med elinstallationer, felsokning och laddboxar i Stockholm med omnejd.",
+    "keywords": [
+      "elektriker stockholm",
+      "laddbox",
+      "elinstallation"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Elektriker i Stockholm",
+    "headline": "Trygg hjalp med elinstallationer och service",
+    "subheadline": "Vi hjalper privatpersoner och foretag med sakra, smidiga och professionella ellosningar i Stockholm.",
+    "primaryCtaLabel": "Begar offert",
+    "primaryCtaHref": "#contact"
+  },
+  "intro": {
+    "heading": "Din lokala expert",
+    "body": "Vi erbjuder snabb aterkoppling, tydliga priser och val utforta arbeten for bade sma och stora uppdrag."
+  },
+  "services": {
+    "heading": "Vara tjanster",
+    "items": [
+      {
+        "title": "Elinstallationer",
+        "description": "Installation av belysning, eluttag, centraler och fasta elarbeten."
+      },
+      {
+        "title": "Felsokning",
+        "description": "Snabb felsokning och atgard vid akuta eller aterkommande elproblem."
+      },
+      {
+        "title": "Laddboxar",
+        "description": "Installation och radgivning kring laddboxar for villa och foretag."
+      }
+    ]
+  },
+  "about": {
+    "heading": "Om oss",
+    "body": "Exempel Elservice ar ett erfaret foretag som satter sakerhet, tydlighet och god service i forsta rummet. Vart mal ar att gora det enkelt att fa ratt hjalp direkt."
+  },
+  "usp": {
+    "heading": "Darfor valjer kunder oss",
+    "items": [
+      "Snabb aterkoppling",
+      "Certifierad kompetens",
+      "Tydliga priser"
+    ]
+  },
+  "testimonials": {
+    "heading": "Vad kunder sager",
+    "enabled": true,
+    "items": [
+      {
+        "name": "Anna",
+        "quote": "Snabb hjalp och valdigt proffsigt bemotande."
+      },
+      {
+        "name": "Johan",
+        "quote": "Tydlig offert, bra kommunikation och snyggt utfort arbete."
+      }
+    ]
+  },
+  "faq": {
+    "heading": "Vanliga fragor",
+    "enabled": true,
+    "items": [
+      {
+        "question": "Vilka omraden arbetar ni i?",
+        "answer": "Vi arbetar framst i Stockholm med omnejd."
+      },
+      {
+        "question": "Kan jag fa offert innan arbete paborjas?",
+        "answer": "Ja, vi erbjuder tydliga offerter innan vi satter igang."
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Kontakta oss",
+    "body": "Hor av dig sa aterkommer vi sa snart vi kan.",
+    "phone": "0701234567",
+    "email": "kontakt@exempel.se",
+    "address": "Exempelgatan 1, 111 22 Stockholm"
+  },
+  "footer": {
+    "companyName": "Exempel Elservice AB",
+    "tagline": "Professionella elarbeten for privatpersoner och foretag.",
+    "copyright": "© 2026 Exempel Elservice AB",
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": ""
+    }
+  },
+  "media": {
+    "logoUrl": "assets/logo-mark.svg",
+    "heroImage": {
+      "url": "assets/hero-illustration.svg",
+      "alt": "Illustration av modern verksamhet"
+    },
+    "aboutImage": {
+      "url": "assets/about-illustration.svg",
+      "alt": "Illustration av arbetssituation"
+    },
+    "gallery": [
+      {
+        "url": "assets/hero-illustration.svg",
+        "alt": "Hero-bild for verksamheten"
+      },
+      {
+        "url": "assets/about-illustration.svg",
+        "alt": "Verksamhetsbild for om-sektionen"
+      },
+      {
+        "url": "assets/detail-pattern.svg",
+        "alt": "Detaljbild med grafiskt monster"
+      }
+    ]
+  }
+}
